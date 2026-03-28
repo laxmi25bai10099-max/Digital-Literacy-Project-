@@ -18,9 +18,9 @@ Created profiles on GitHub, LinkedIn, and Kaggle to build a professional online 
 
 📎 Screenshots:
 - task-2-portfolio:GitHub_profile.png
--task-2-portfolio:Kaggle.png.png
--task-2-portfolio:Kaggle_profile.png
--task-2-portfolio:Linkedln_profile.png
+- task-2-portfolio:Kaggle.png.png
+- task-2-portfolio:Kaggle_profile.png
+- task-2-portfolio:Linkedln_profile.png
 
 ## 📂 Module 3 – Coding & Collaboration
 - Completed a beginner-level challenge on HackerRank  
@@ -31,21 +31,21 @@ https://docs.google.com/forms/d/e/1FAIpQLSfcegpiLxvDq_4EUCIWnlSQJ7wjdPIzhAj21bzW
 This quiz includes 5 questions covering topics such as safe internet practices, digital awareness, and online safety. It helps students understand the importance of Digital literacy, How to use safely and responsibly.
  
 📎 Screenshots:
--task-3-platforms:Quiz_Form.png
--task-3-platforms:Quiz_form.png
--task-3-platforms:Quiz_response.png
--task-3-platforms:Hackerrank.png
--task-3-platforms:HackerRank_1.png
--task-3-platforms:HackerRank_2.png
--task-3-platforms:HackerRank_3.png
+- task-3-platforms:Quiz_Form.png
+- task-3-platforms:Quiz_form.png
+- task-3-platforms:Quiz_response.png
+- task-3-platforms:Hackerrank.png
+- task-3-platforms:HackerRank_1.png
+- task-3-platforms:HackerRank_2.png
+- task-3-platforms:HackerRank_3.png
 
 ## 📂 Module 4 – Email & Etiquette
 - Wrote professional emails  
 - Created a social media checklist
 
 📎 Files:
--task-4-emai-entiquette:VITyarthi.pdf
--task-4-email-entiquette:social-media-checklist.md
+- task-4-emai-entiquette:VITyarthi.pdf
+- task-4-email-entiquette:social-media-checklist.md
 
 
 ## 📂 Module 5 – Cybercrime Awareness
@@ -53,8 +53,8 @@ This quiz includes 5 questions covering topics such as safe internet practices, 
 - Developed a prevention checklist  
 
 📎 Files: 
--task-5-cybercrime:casestudy.md
--task-5-cybercrime:prevention-checklist.md
+- task-5-cybercrime:casestudy.md
+- task-5-cybercrime:prevention-checklist.md
 
 ## 📊 Conclusion
 This project helped me understand digital tools, improve my coding and communication skills, and learn about online safety and also be aware of unknown links and calls. It will help me in my academic and professional growth.
