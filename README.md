@@ -11,12 +11,15 @@ This project focuses on improving digital literacy, coding skills, and professio
 ## 📂 Module 1 – Digital Literacy Infographic
 Created an infographic using Canva covering digital literacy, safe internet practices, and professional online presence.
 
-📎 File:
+📎 File: task-1-presentation/Digital_Awareness.png
 
 ## 📂 Module 2 – Portfolio Platforms
 Created profiles on GitHub, LinkedIn, and Kaggle to build a professional online presence.
 
-📎 Screenshots: 
+📎 Screenshots: task-2-portfolio/GitHub_profile.png
+                task-2-portfolio/Kaggle.png.png
+                task-2-portfolio/Kaggle_profile.png
+                task-2-portfolio/Linkedln_profile.png
 
 ## 📂 Module 3 – Coding & Collaboration
 - Completed a beginner-level challenge on HackerRank  
@@ -32,7 +35,7 @@ This quiz includes 5 questions covering topics such as safe internet practices, 
 - Wrote professional emails  
 - Created a social media checklist
 - 
-📎 Files:
+📎 Files: VITyarthi.pdf
 
 ## 📂 Module 5 – Cybercrime Awareness
 - Created a phishing case study  
