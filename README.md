@@ -17,7 +17,7 @@ Created an infographic using Canva covering digital literacy, safe internet prac
 Created profiles on GitHub, LinkedIn, and Kaggle to build a professional online presence.
 
 📎 Screenshots:
--task-2-portfolio:GitHub_profile.png
+- task-2-portfolio:GitHub_profile.png
 -task-2-portfolio:Kaggle.png.png
 -task-2-portfolio:Kaggle_profile.png
 -task-2-portfolio:Linkedln_profile.png
@@ -42,7 +42,7 @@ This quiz includes 5 questions covering topics such as safe internet practices, 
 ## 📂 Module 4 – Email & Etiquette
 - Wrote professional emails  
 - Created a social media checklist
-- 
+
 📎 Files:
 -task-4-emai-entiquette:VITyarthi.pdf
 -task-4-email-entiquette:social-media-checklist.md
