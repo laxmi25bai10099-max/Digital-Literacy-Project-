@@ -37,8 +37,10 @@ This quiz includes 5 questions covering topics such as safe internet practices, 
 - task-3-platforms:Hackerrank.png
 - task-3-platforms:HackerRank_1.png
 - task-3-platforms:HackerRank_2.png
-- task-3-platforms:HackerRank_3.png
-
+- task-3-platforms:HackerRank_4.png
+- task-3-platforms:HackerRank_5.png
+- task-3-platforms:HackerRank_6.png
+- task-3-platforms:HackerRank_7.png
 ## 📂 Module 4 – Email & Etiquette
 - Wrote professional emails  
 - Created a social media checklist
