@@ -33,7 +33,7 @@ This quiz includes 5 questions covering topics such as safe internet practices, 
 📎 Screenshots:
 - task-3-platforms:Quiz_Form.png
 - task-3-platforms:Quiz_form.png
-- task-3-platforms:Quiz_response.png
+- task-3-platforms:Quiz_response1.png
 - task-3-platforms:Hackerrank.png
 - task-3-platforms:HackerRank_1.png
 - task-3-platforms:HackerRank_2.png
