@@ -46,8 +46,8 @@ This quiz includes 5 questions covering topics such as safe internet practices, 
 - Created a social media checklist
 
 📎 Files:
-- task-4-emai-entiquette:VITyarthi.pdf
-- task-4-email-entiquette:social-media-checklist.md
+- task-4-emai-etiquette:VITyarthi.pdf
+- task-4-email-etiquette:social-media-checklist.md
 
 
 ## 📂 Module 5 – Cybercrime Awareness
